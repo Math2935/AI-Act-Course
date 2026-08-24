@@ -77,6 +77,8 @@ pipeline_tag: tabular-classification
 
     Les performances obtenues sont homogènes pour les 3 classes à prédire et pour l'ensemble des métriques.
 
+    Attention : l'accuracy étant de 1 pour toutes les classes, le modèle présente probablment un sur-apprentissage.
+
 
 ## Ethical Considerations (Considérations éthiques)
 
